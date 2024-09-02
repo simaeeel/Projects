@@ -18,8 +18,8 @@ load_dotenv()
 
 
 # email sender and the password
-email_sender = 'senderemails12345@gmail.com'
-email_password = os.getenv('pass')
+email_sender = ''
+email_password = ""
 
 # the subject of the email
 subject = 'Internship Application Approval'
