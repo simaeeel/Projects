@@ -13,7 +13,10 @@ Fetch the Article: The project retrieves the full text of a news article from a 
 Process the Text: It processes the text to understand its structure and content.
 Extract Key Information: The project extracts important details like the title, authors, publication date, and a summary of the article.
 Display the Summary: Finally, it displays this information in a readable format.
-3. **News Summary** ✍️: that the same idea but with GUI that display the information: The extracted information and sentiment analysis are displayed in a graphical user interface (GUI).
+
+
+3. **News Summary** ✍️: that the same idea but with GUI
+that display the information: The extracted information and sentiment analysis are displayed in a graphical user interface (GUI).
 
 ## Getting Started
 To get started with any of the projects, clone the repository and navigate to the project directory.
